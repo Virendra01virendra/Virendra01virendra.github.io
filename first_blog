@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+	<title>Virendra's Blog</title>
+</head>
+<body>
+    <header>
+    <h1>A Mechanical Engineer's Take on Full stack</h1>
+    </header>
+	<h1><em>Full stack development</em></h1>
+	<p>This blog session limits itself to the prerequisites of what not to expect if you are working in the present scenario it industry</p>
+    <h3>Why is it necessary for the IT professionals to become FULL STACK</h3>
+    <p>In the initial stages of <em>IT industry</em> the professionals used to thrive on the surplus</p>
+    <p>demand of IT solutions going around.</p>
+    <p>But now the in the 21st century the due to changes in consumer demands, there are some key changes taking place in the IT sector</p>
+    <p>,now the consumers are throwing problems at us rather than demanding for specific solutions.</p>
+    <p></p>
+    <p>Hence there is a rising demand for <strong>skilled It professionals</strong> in the industry today</p>
+    <aside>About <a href="http://google.com">Virendra</a>:: post grad from IIT DELHI</aside> 
+<footer>
+    <small>&copy; BIPL</small>
+</footer>
+</body>
+</html>
