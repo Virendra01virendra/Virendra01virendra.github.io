@@ -2,24 +2,37 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-	<title>Virendra's Blog</title>
+    <title>Virendra's Blog</title>
 </head>
 <body>
     <header>
-    <h1>A Mechanical Engineer's Take on Full stack</h1>
+        <small>A Mechanical Engineer's Take on Full stack</small>
+        <h1>List of Contents</h1>1
+            <ul>
+                <li>full stack development</li>
+                <li>global outrage for its requirement</li>
+                <li>My views on the Concept</li>
+            </ul>           
     </header>
-	<h1><em>Full stack development</em></h1>
-	<p>This blog session limits itself to the prerequisites of what not to expect if you are working in the present scenario it industry</p>
-    <h3>Why is it necessary for the IT professionals to become FULL STACK</h3>
-    <p>In the initial stages of <em>IT industry</em> the professionals used to thrive on the surplus</p>
+    <img src="/home/test11/exercise_1/test_image.jpg" alt="the boeing logo">
+        <h2>
+            <em>Full stack development</em>
+        </h2>
+            <p>This blog session limits itself to the prerequisites of what not to expect if you are working in the present scenario it industry</p>
+        <h3>Why is it necessary for the IT professionals to become FULL STACK</h3>
+        <p>In the initial stages of <em>IT industry</em> the professionals used to thrive on the surplus</p>
     <p>demand of IT solutions going around.</p>
-    <p>But now the in the 21st century the due to changes in consumer demands, there are some key changes taking place in the IT sector</p>
-    <p>,now the consumers are throwing problems at us rather than demanding for specific solutions.</p>
+    <p>But now the in the 21st century due to changes in consumer demands, there are some key changes taking place in the IT sector</p>
+    <p>Current situation</p>
+        <p>Now the consumers are throwing problems at us rather than demanding for specific solutions.</p>
     <p></p>
     <p>Hence there is a rising demand for <strong>skilled It professionals</strong> in the industry today</p>
+    <p>Personal take on "full stack"</p>
+    <h3>present IT world</h3>
+    <p>Information Technology in India is an industry consisting of two major components: IT services and business process outsourcing (BPO).[1] The sector has increased its contribution to India's GDP from 1.2% in 1998 to 7.7% in 2017.[2] According to NASSCOM, the sector aggregated revenues of US$160 billion in 2017,[3][4] with export revenue standing at US$99 billion and domestic revenue at US$48 billion, growing by over 13%. The United States accounts for two-thirds of India's IT services exports.</p>
     <aside>About <a href="http://google.com">Virendra</a>:: post grad from IIT DELHI</aside> 
 <footer>
     <small>&copy; BIPL</small>
 </footer>
 </body>
-</html>
+</html> 
